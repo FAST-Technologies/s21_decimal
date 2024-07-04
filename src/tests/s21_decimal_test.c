@@ -1,7 +1,7 @@
 // #include <stdlib.h>
 
 // #include "./../s21_decimal.h"
-// #include "./test.h"
+// #include  "./test.h"
 
 #include "s21_decimal_test.h"
 
